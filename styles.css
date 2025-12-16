@@ -16,6 +16,8 @@ body {
 .logo-nav {
     display: grid;
     grid-template-columns: 25% 50% 25%;
+    display: flex;
+    justify-content: center;
 }
 
 .nav-menu {
