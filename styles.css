@@ -15,7 +15,7 @@ body {
 
 .logo-nav {
     display: grid;
-    grid-template-columns: 20% 40% 20%;
+    grid-template-columns: 25% 50% 25%;
 }
 
 .nav-menu {
