@@ -5,7 +5,9 @@
 }
 
 .nav-menu {
+  display: flex;
   gap: 24px; /* space between options */
+  text-align: center;
 }
 
 .nav-menu a {
