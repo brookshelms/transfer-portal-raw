@@ -17,7 +17,7 @@ body {
 }
 
 .nav-menu a {
-    color: whitesmoke; /* blue text */
+    color: whitesmoke; /* white text */
     text-decoration: none;
     font-weight: 500;
     font-family: Arial, Helvetica, sans-serif;
@@ -25,12 +25,17 @@ body {
 }
 
 .nav-menu h3 {
-    color: whitesmoke; /* blue text */
+    color: whitesmoke; /* white text */
     text-decoration: none;
     font-weight: 500;
     font-family: Arial, Helvetica, sans-serif;
+    font: 200;
 }
 
 .nav-menu a:hover {
+    text-decoration: solid;
+}
+
+.nav-menu h3:hover {
     text-decoration: solid;
 }
