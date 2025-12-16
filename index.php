@@ -6,7 +6,6 @@
     <title>Tranfer Portal</title>
     <header>
         <nav>
-            <
         </nav>
     </header>
 </head>
