@@ -6,8 +6,8 @@
 
 .nav-menu {
   display: flex;
+  justify-content: center;
   gap: 24px; /* space between options */
-  text-align: center;
 }
 
 .nav-menu a {
