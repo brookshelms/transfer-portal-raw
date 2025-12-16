@@ -4,7 +4,7 @@ body {
 }
 
 .site-header {
-    background-color: #1e73be; /* grey background */
+    background-color: midnightblue; /* Blue background */
     padding: 16px 24px;
     display: grid;
     grid-template-columns: 25% 50% 25%;
@@ -42,13 +42,17 @@ body {
 }
 
 .white-on-blue {
-    background-color: #1e73be;
-    color: whitesmoke;
+    background-color: silver;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
 }
 
 .blue-on-white {
     color: #1e73be;
-    background-color: whitesmoke;
+    background-color: silver;
     font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
 }
