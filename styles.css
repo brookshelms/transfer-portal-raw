@@ -11,7 +11,7 @@ body {
 .nav-menu {
     display: flex;
     justify-content: center;
-    gap: 24px; /* space between options */
+    gap: 50px; /* space between options */
 }
 
 .nav-menu a {
