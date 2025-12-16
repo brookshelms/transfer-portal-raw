@@ -1,8 +1,9 @@
 
 .site-header {
-    
+    background-color: gray;
+
 }
 
 .nav-menu {
-
+    display: flex;
 }
