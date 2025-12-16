@@ -27,3 +27,28 @@ body {
 .nav-menu a:hover {
     text-decoration: solid;
 }
+
+.site-index-body {
+}
+
+.site-players-body {
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+}
+
+.site-schools-body {
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+}
+
+.white-on-blue {
+    background-color: #1e73be;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.blue-on-white {
+    color: #1e73be;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
